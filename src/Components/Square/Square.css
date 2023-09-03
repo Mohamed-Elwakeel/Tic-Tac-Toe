@@ -1,0 +1,14 @@
+/* .board-row {
+    
+} */
+
+.square {
+    width: 120px;
+    height: 120px;
+    font-size: 2.5rem;
+    background-color: aquamarine;
+}
+
+/* .square.active {
+    cursor: pointer;
+} */
