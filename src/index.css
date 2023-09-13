@@ -11,6 +11,9 @@ audio,
 video {
   display: inline-block;
 }
+:root{
+  background-color:lightgrey;
+}
 
 /**
   * Remove the border on images inside links in IE 10-.
